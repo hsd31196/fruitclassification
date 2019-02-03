@@ -1,2 +1,2 @@
 # fruitclassification
-It is a tool based on machine learning and image processing which classifies the type of fruit using multiclass SVM algorithm which is supervised  machine learning algorithm.
+It is a Graphical User Interface which classifies the type of fruit in input image using SVM algorithm.
